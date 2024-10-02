@@ -25,10 +25,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝙲𝚑𝚒𝚗𝚐𝚊𝚛𝚒🔥",
-    "PREFIX": "+",
+    "BOTNAME": "ZAIN KA BOT HU",
+    "PREFIX": ".",
     "OTHERBOT": [
-        ""
+        "100094284385477"
     ],
     "UNSENTVIP": [
         "100038374310301",
@@ -235,4 +235,5 @@
     "sortword": {
         "APIKEY": "Meew_kB5wRAlpHhrAj0GhRzmmLHesvvTbXE"
     }
+}
 }
